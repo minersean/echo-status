@@ -1,0 +1,12 @@
+{
+    "has_message_for_echo":  false,
+    "id":  "hb_20260916_060258",
+    "type":  "ping",
+    "hostname":  "DESKTOP-L7QUEUD",
+    "pending_message":  true,
+    "timestamp":  "2026-09-16T06:02:58.5953524+02:00",
+    "local_agent":  "ok",
+    "from":  "echo",
+    "status":  "alive",
+    "to":  "coding-agent"
+}
