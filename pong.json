@@ -1,0 +1,9 @@
+{
+    "id":  "pong_20261024_175200",
+    "messages_consumed":  false,
+    "timestamp":  "2026-10-24T17:52:00.3681412+02:00",
+    "to":  "coding-agent",
+    "from":  "echo",
+    "type":  "pong",
+    "last_ping":  "hb_20261024_175200"
+}
